@@ -1,0 +1,197 @@
+body {
+	font-family: 'Dosis', sans-serif;
+	background-color: #F7F6F1;
+}
+
+
+
+/******************** HEADER **********************************/
+
+.navbar-default {
+	background-color: #F3F2EC;
+	padding: 2% 5%;
+	font-size: 1.2em;
+}
+
+.logo{
+	margin-top: -25px;
+}
+
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+	color: #7F7F7F;
+	text-decoration: none;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+
+}
+
+/******************** Footer **********************************/
+.footer {
+	
+	color: #626466;
+	background-color: #2c2c2a;
+	bottom:0;
+	margin: 0 -15px;
+}
+
+.footer a {
+	color: #929496;
+}
+
+.footer-detailing{
+	padding:30px;
+}
+
+.footer-social{
+	float:left;
+}
+/******************** standard **********************************/
+.spacer-5 {
+	min-height:5px;
+}
+
+
+.spacer-15 {
+	min-height:15px;
+}
+
+.spacer-25 {
+	min-height:25px;
+}
+
+.pull-center {
+	margin:auto;
+	display:block;
+}
+
+
+/****************************specific ****************************/
+.puja-timing-box{
+	background-color:#ffd752;
+	margin: 50px 0 80px 25px;
+	padding: 10px 0;
+}
+
+.puja-timing h3{
+	padding: 0;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.main-festivals-box {
+	background-color:#ffd752;
+	margin: 50px 0 80px 25px;
+	padding: 10px 0;
+	font-size: 1.2em;
+}
+
+
+.main-festivals h3{
+	padding: 0;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.donation-box {
+	background-color:#ffd752;
+	margin: 50px 0 80px 25px;
+	padding: 10px 20px 20px 20px;
+	font-size: 1.2em;
+}
+
+
+.donation h3{
+	padding: 0;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+
+.details-box {
+	margin: 50px 0 80px 25px;
+	font-size: 1.5em;
+	text-align: justify;	
+}
+
+.donate-box{
+	background-color:#ffd752;
+	margin: 50px 0 100px 0;
+	padding:50px;
+}
+
+.donate-box h1{
+	padding: 0;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.donate-button {
+	border:0;
+	border-style:none;
+	background-color: #D74444;
+	color: #FFFFFF;
+	font-size: 1em;
+	padding:10px;
+}
+
+.homepage-mantra{
+	color: #F50000;
+}
+
+.page-title {
+	background-color: #3d3c3a;
+	color: #ffd752;
+}
+
+.page-title-bg {
+	background: url(../images/ptn.png) no-repeat 270px 0px;
+  	padding: 25px 0;
+  	margin-top: 0px;
+}
+
+.page-content {
+	font-size: 1.4em;
+	margin:50px 0 80px 0;
+	color: #717676;
+	text-align: justify;
+
+}
+
+.map-frame{
+	border: 20px #FFFFFF SOLID;
+	border-radius: 5px;
+	margin: 25px 0 10px 0;
+}
+
+.visit-us{
+	margin: 0 0 80px 0;
+}
+
+.visit-us hr {
+	border-color: #2C2C2A;
+}
+
+.video-tag{
+	margin: 0 0 40px 0;
+}
+
+.download{
+	border:0;
+	color:#FFFFFF;
+	background-color: #D74444;
+	padding: 10px;
+	margin: 3px 1.5px;
+
+}
+
+.visit-us-detail {
+	font-size: 1.2em;
+	text-align: justify;
+}
+
+.visit-us-detail a {
+	font-size: 1.2em;
+	text-align: justify;
+}
